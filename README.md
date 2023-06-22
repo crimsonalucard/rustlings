@@ -1,10 +1,10 @@
-My solutions to rustlings. Look at files exercises folder to see. 
+# My solutions to rustlings. Look at files exercises folder to see. Below is the original readme. 
 
 
 
 
 
-# rustlings 🦀❤️
+## rustlings 🦀❤️
 
 Greetings and welcome to `rustlings`. This project contains small exercises to get you used to reading and writing Rust code. This includes reading and responding to compiler messages!
 
